@@ -3016,6 +3016,11 @@ filename-regex@^2.0.0:
   resolved "https://registry.yarnpkg.com/filename-regex/-/filename-regex-2.0.1.tgz#c1c4b9bee3e09725ddb106b75c1e301fe2f18b26"
   integrity sha1-wcS5vuPglyXdsQa3XB4wH+LxiyY=
 
+filepond@^4.7.1:
+  version "4.7.1"
+  resolved "https://registry.yarnpkg.com/filepond/-/filepond-4.7.1.tgz#b4c1fbc184ba314a52d1f85d0020cefa10f0d8e5"
+  integrity sha512-AxZBhsGS9QEJfbLiASUJMuS3hLhq/HbkKaJx1gKYCQ0lbs/OfciKKdeFbtAVKk0o9o6DcITw2C+QqFcTP1QBCg==
+
 fill-range@^2.1.0:
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/fill-range/-/fill-range-2.2.4.tgz#eb1e773abb056dcd8df2bfdf6af59b8b3a936565"
@@ -6565,6 +6570,11 @@ react-dom@^16.0.0:
     object-assign "^4.1.1"
     prop-types "^15.6.2"
     scheduler "^0.15.0"
+
+react-filepond@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/react-filepond/-/react-filepond-7.0.1.tgz#caf96526287140884a31a1476b8328d9d6ecdee2"
+  integrity sha512-PitNM44JP0K5hXnkSYV3HRlkObsWbhqaJRWizMrdHpS3pPz9/iyiOGmRpc+4T4ST3vblmiUTLRYq/+1bDcSqQw==
 
 react-frame-component@^2.0.0:
   version "2.0.2"
